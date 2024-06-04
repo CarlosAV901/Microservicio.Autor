@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.Microeservice.Autor.props" />
+</Project>

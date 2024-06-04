@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+RQca3J8CerM5t31dF5AF3sZ7Ntl3zJuQApj5usTyBA=",
+  "Source": "Api.Microeservice.Autor",
+  "BasePath": "_content/Api.Microeservice.Autor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
